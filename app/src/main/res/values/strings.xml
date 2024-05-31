@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">tcc-app</string>
+    <string name="bottom_line_text">UNIP</string>
+    <string name="email_login">E-MAIL</string>
+    <string name="pass_login">SENHA</string>
+    <string name="pass_recive_login">RECUPERAR SENHA</string>
+    <string name="txt_btn_login">ENTRAR</string>
+    <string name="forgot_pass_login">Criar Conta</string>
+    <string name="header_login">LOGIN</string>
+    <string name="header_catregoria">CATEGORIAS</string>
+    <string name="back">VOLTAR</string>
+    <string name="name">NOME</string>
+    <string name="date_nasc">DATA DE NASCIEMENTO</string>
+    <string name="mail_rescue">ENVIAR E-MAIL DE RECUPERAÇÃO</string>
+    <string name="head_client">CADASTRO CLIENTE</string>
+    <string name="header_home_text">MAIS CLICADOS</string>
+    <string name="header_home_text_2">MAIS COMPRADOS</string>
+    <string name="menu_iten_0">LOGIN</string>
+    <string name="menu_iten_1">CADASTRAR</string>
+    <string name="menu_iten_2">PERFIL</string>
+    <string name="menu_iten_3">SOBRE</string>
 </resources>
